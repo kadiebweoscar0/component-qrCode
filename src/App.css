@@ -2,15 +2,12 @@
 
 *{
   font-family: "Outfit", sans-serif;
-
 }
 
 body{
   background-color: hsl(212, 45%, 89%);
   padding: 4%;
 }
-
-
 
 @media screen and (max-width: 1440px) {
   .card-QrCode{
