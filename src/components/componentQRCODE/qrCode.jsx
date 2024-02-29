@@ -5,10 +5,10 @@ import imageQrCode from "../../images/image-qr-code.png"
 
 export default function QrCode() {
   return (
-    <div>
-        <ImageDefault urlImage={imageQrCode} />
-        <TitleLevel2 />
-        <Paragraph />
-    </div>
+        <div className="card-QrCode">
+                <ImageDefault urlImage={imageQrCode} />
+                <TitleLevel2 />
+                <Paragraph />
+        </div>
   )
 }
