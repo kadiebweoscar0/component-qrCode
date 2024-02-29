@@ -1,6 +1,6 @@
 
 export default function Paragraph() {
   return (
-    <p>paragraph</p>
+    <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
   )
 }
