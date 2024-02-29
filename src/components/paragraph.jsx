@@ -1,6 +1,6 @@
 
-export default function paragraph() {
+export default function Paragraph() {
   return (
-    <div>paragraph</div>
+    <p>paragraph</p>
   )
 }

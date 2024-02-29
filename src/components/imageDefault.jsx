@@ -1,9 +1,10 @@
+/* eslint-disable react/prop-types */
 
 
-export default function imageDefault() {
+export default function ImageDefault(props) {
   return (
     <>
-        <img src="" alt="capture of the qr code" />
+        <img src={props.urlImage} alt="capture of the qr code" />
     </>
   )
 }

@@ -1,6 +1,6 @@
 
-export default function titleLevel2() {
+export default function TitleLevel2() {
   return (
-    <div>titleLevel2</div>
+    <h2>titleLevel2</h2>
   )
 }
